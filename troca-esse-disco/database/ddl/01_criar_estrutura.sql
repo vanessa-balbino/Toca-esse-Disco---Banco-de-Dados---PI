@@ -1,0 +1,1 @@
+-- DDL: criação da estrutura do banco

@@ -1,0 +1,1 @@
+-- DQL: 20 consultas obrigatórias
