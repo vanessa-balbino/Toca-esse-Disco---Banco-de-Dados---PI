@@ -1,1 +1,0 @@
-# Modelo Entidade-Relacionamento (MER)
